@@ -60,3 +60,9 @@ crashlytics-build.properties
 
 
 NYCProject/Temp/
+
+NYCProject/.idea/
+
+NYCProject/obj/
+
+NYCProject/Packages/
